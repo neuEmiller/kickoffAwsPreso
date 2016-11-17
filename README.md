@@ -13,3 +13,6 @@
 - [AWS CloudFormation](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
 - [AWS APIs and SDKs](https://aws.amazon.com/tools/)
 - [CI/CD for infrastructure automation](https://www.youtube.com/watch?v=P-2ev6vN67I)
+
+## Deployments
+- [AWS Case Studies](https://aws.amazon.com/solutions/case-studies/all/)
